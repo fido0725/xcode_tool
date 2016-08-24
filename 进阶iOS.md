@@ -59,5 +59,37 @@ brew install ack
 ####图像处理库
 brew install imagemagick
 
+###工具集
+* [第三方库依赖cocoapods]()
+* [网络封包分析工具Charles]()
+* [Reveal界面调试工具]()
+* [统计工具Flurry]()
+* [崩溃日志记录工具Crashlytics]()
+* [App Store统计工具App Annie]()
+
+###插件
+####插件管理Alcatraz
+* KSImageNamed:自动弹资源上下文
+* XVim:xcode 下的vim插件
+* FuzzyAutocompletePlugin:模糊自动补全代码
+* XToDo:查找项目中带TODO,FIXME,???,!!!的注释
+* BBUDebuggerTuckAway:编辑代码时自动隐藏DEBUG窗口
+* SCXcodeSwitchExpander:自动填充switch语句
+* deriveddata-exterminator:自动清除缓存目录
+* VVDocumenter:自动生成代码注释，并可系统查看
+* ClangFormat:自动缩进，调整代码风格
+* ColorSense:UIColor预览颜色
+* XcodeBoost:多种辅助功能，1把文件方法暴露在头文件中2源文件输入正则查找3复制粘贴不启动系统缩进功能
+
+####其他工具
+* 系统自带数码测色计,类似xScope
+* ImageOptim:图像压缩
+* markman:标注工具
+* Dash:API文档查询，代码块管理工具
+* 蒲公英:内测分发
+* nomad:命令行操作苹果开发中心`gem install nomad-cli`
+* xctool:命令行iOS编译和测试工具  `brew install xctool`
+* appledoc:抽取文档生成与系统一样的说明文档工具 `brew install appledoc`
+
 
 
